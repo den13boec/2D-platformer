@@ -23,7 +23,10 @@ Unity version used is 2021.2.14
 - [FREE Casual Game SFX Pack](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116)
 
 ## Results
+
 :link:[Link to youtube for demonstration](https://youtu.be/NCLP5JiYBUQ?si=Ao1bnJUREfXenGPr)
+
+![Gameplay gif](./public/gameplay.gif)
 
 | ![level 1](./public/level-1.png) |
 |:--------------------------------:|
