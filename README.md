@@ -17,7 +17,7 @@ This is term paper - 2D platformer game made with Unity
 
 Unity version used is 2021.2.14
 
-## Used assets:
+## Used assets
 
 - [Pixel Adventure 1](https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360)
 - [FREE Casual Game SFX Pack](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116)
